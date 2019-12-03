@@ -1,0 +1,29 @@
+car{
+    display:block;
+    margin-top: 15px;
+    color: blue;
+}
+
+year,make,model{
+    color: red;
+    font-size: 16pts;
+}
+
+color, engine, number_of_doors, transmission_type, accessories{
+    display: block;
+    margin-left: 20px;
+    font-size: 12pt;
+}
+
+number_of_cylinders, fuel_system {
+	display:block;
+    margin-left:40px;
+    font-size: 12pt;
+}
+
+radio, air_conditioning, power_windows, power_steering, power_brakes {
+	display:block;
+    margin-left:40px;
+    font-size: 12pt;
+}
+

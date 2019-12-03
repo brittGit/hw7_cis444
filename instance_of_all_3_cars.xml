@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="all_3_cars_XSLT_stylesheet.xsl"?>
+
+<catalog>
+	<car>
+		<make>honda</make>
+		<model>fit</model>
+		<year>2013</year>
+		<color>purple</color>
+		<engine>
+			<number_of_cylinders>4</number_of_cylinders>
+			<fuel_system>carbureted</fuel_system>
+		</engine>
+		<number_of_doors>5</number_of_doors>
+		<transmission_type>auto</transmission_type>
+		<accessories>
+			<radio>yes</radio>
+			<air_conditioning>yes</air_conditioning>
+			<power_windows>yes</power_windows>
+			<power_steering>yes</power_steering>
+			<power_brakes>yes</power_brakes>
+		</accessories>
+	</car>
+	
+	<car>
+		<make>honda</make>
+		<model>civic</model>
+		<year>2000</year>
+		<color>silver</color>
+		<engine>
+			<number_of_cylinders>4</number_of_cylinders>
+			<fuel_system>carbureted</fuel_system>
+		</engine>
+		<number_of_doors>4</number_of_doors>
+		<transmission_type>auto</transmission_type>
+		<accessories>
+			<radio>yes</radio>
+			<air_conditioning>yes</air_conditioning>
+			<power_windows>yes</power_windows>
+			<power_steering>yes</power_steering>
+			<power_brakes>yes</power_brakes>
+		</accessories>
+	</car>
+	
+	<car>
+		<make>honda</make>
+		<model>accord</model>
+		<year>2001</year>
+		<color>orange</color>
+		<engine>
+			<number_of_cylinders>4</number_of_cylinders>
+			<fuel_system>carbureted</fuel_system>
+		</engine>
+		<number_of_doors>4</number_of_doors>
+		<transmission_type>auto</transmission_type>
+		<accessories>
+			<radio>yes</radio>
+			<air_conditioning>yes</air_conditioning>
+			<power_windows>yes</power_windows>
+			<power_steering>yes</power_steering>
+			<power_brakes>yes</power_brakes>
+		</accessories>
+	</car>	
+</catalog>
